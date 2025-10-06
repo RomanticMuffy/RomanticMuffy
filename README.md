@@ -1,5 +1,9 @@
 <!-- README - Romantic Muffy -->
 
+<p align="center">
+  <img src="https://i.pinimg.com/originals/d8/f3/81/d8f3815be820ec3a5fb8f8b902fcabc3.gif" alt="banner" width="100%" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Romantic+Muffy;Fullstack+Developer;Code+in+Motion" alt="Typing SVG" />
 </h1>
