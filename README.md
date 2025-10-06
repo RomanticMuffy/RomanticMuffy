@@ -1,7 +1,7 @@
 <!-- README - Romantic Muffy -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d8/f3/81/d8f3815be820ec3a5fb8f8b902fcabc3.gif" alt="banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/ce/6b/af/ce6bafdb160aa08d4fbb3c2a1894d568.jpg" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -65,5 +65,5 @@ Production, code, and style — all in one mindset.
 </h4>
 
 <p align="center">
-  <img src="https://www.catzone.com.br/wp-content/uploads/2020/03/Gato-1.png" alt="cat" width="80px" />
+  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/0/0f/Totoro_Render.png/revision/latest/scale-to-width-down/468?cb=20190509020104" alt="cat" width="80px" />
 </p>
