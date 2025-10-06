@@ -54,7 +54,7 @@ Production, code, and style — all in one mindset.
 
 <h3 align="center">
   <a href="https://github.com/RomanticMuffy">
-    <img src="https://zakkajoy.com/cdn/shop/collections/totoro.png?v=1741375039" />
+    <img src="https://img.shields.io/badge/View%20Projects-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
 
@@ -65,5 +65,5 @@ Production, code, and style — all in one mindset.
 </h4>
 
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/all-worlds-alliance/images/0/0f/Totoro_Render.png/revision/latest/scale-to-width-down/468?cb=20190509020104" alt="cat" width="80px" />
+  <img src="https://zakkajoy.com/cdn/shop/collections/totoro.png?v=1741375039" alt="cat" width="80px" />
 </p>
