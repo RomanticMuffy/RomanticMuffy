@@ -61,5 +61,5 @@ Produção, código e estética — tudo no mesmo pacote.
 ---
 
 <h4 align="center">
-  Code. Build. Repeat.
+  ごみごみごみごみごみ
 </h4>
