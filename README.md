@@ -1,7 +1,7 @@
 <!-- README - Romantic Muffy -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/d8/f3/81/d8f3815be820ec3a5fb8f8b902fcabc3.gif" alt="banner" width="100%" />
+  <img src="https://i.pinimg.com/1200x/ce/6b/af/ce6bafdb160aa08d4fbb3c2a1894d568.jpg" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">
