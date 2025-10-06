@@ -6,14 +6,14 @@
 
 ---
 
-### 🧠 Sobre
+### Sobre
 Desenvolvedor com foco em performance e design funcional.  
 Trabalho com front e back-end, criando soluções limpas e rápidas.  
 Produção, código e estética — tudo no mesmo pacote.
 
 ---
 
-### 💻 Linguagens
+### Linguagens
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,7 +26,7 @@ Produção, código e estética — tudo no mesmo pacote.
 
 ---
 
-### ⚙️ Ferramentas
+### Ferramentas
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-9B5DE5?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -38,7 +38,7 @@ Produção, código e estética — tudo no mesmo pacote.
 
 ---
 
-### 📊 Status
+### Status
 <div align="center">
   
 ![Muffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanticMuffy&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B5DE5&icon_color=9B5DE5)
