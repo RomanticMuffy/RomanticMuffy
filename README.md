@@ -1,17 +1,17 @@
-<!-- README - Romantic Muffy -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Romantic+Muffy;Fullstack+Developer;Code+in+Motion" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=35&duration=2800&pause=1000&color=9B5DE5&center=true&vCenter=true&width=700&lines=Romantic+Muffy;Fullstack+Developer;Code+in+Motion" alt="Typing SVG" />
 </h1>
 
 ---
 
 ### Sobre
 <center>
-Desenvolvedor com foco em performance e design funcional.  
-Trabalho com front e back-end, criando soluções limpas e rápidas.  
+Desenvolvedor com foco em performance e design funcional.  
+Trabalho com front e back-end, criando soluções limpas e rápidas.  
 Produção, código e estética — tudo no mesmo pacote.
 </center>
+
+---
 
 ### Linguagens
 <div align="center">
@@ -40,7 +40,7 @@ Produção, código e estética — tudo no mesmo pacote.
 
 ### Status
 <div align="center">
-  
+  
 ![Muffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanticMuffy&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B5DE5&icon_color=9B5DE5)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomanticMuffy&layout=compact&theme=tokyonight&hide_border=true&title_color=9B5DE5)
 
@@ -48,14 +48,21 @@ Produção, código e estética — tudo no mesmo pacote.
 
 ---
 
+### Música/SoundCloud
+<div align="center">
+  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/1209565558&color=%239b5de5&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+</div>
+
+---
+
 <h3 align="center">
-  <a href="https://github.com/RomanticMuffy">
-    <img src="https://img.shields.io/badge/Ver%20Projetos-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="https://github.com/RomanticMuffy">
+    <img src="https://img.shields.io/badge/Ver%20Projetos-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </h3>
 
 ---
 
 <h4 align="center">
-  𝐶𝑜𝑑𝑒. 𝐵𝑢𝑖𝑙𝑑. 𝑅𝑒𝑝𝑒𝑎𝑡.
+  𝐶𝑜𝑑𝑒. 𝐵𝑢𝑖𝑙𝑑. 𝑅𝑒𝑝𝑒𝑎𝑡.
 </h4>
