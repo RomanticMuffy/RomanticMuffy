@@ -54,7 +54,7 @@ Production, code, and style — all in one mindset.
 
 <h3 align="center">
   <a href="https://github.com/RomanticMuffy">
-    <img src="https://img.shields.io/badge/View%20Projects-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://zakkajoy.com/cdn/shop/collections/totoro.png?v=1741375039" />
   </a>
 </h3>
 
