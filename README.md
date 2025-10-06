@@ -1,7 +1,7 @@
 <!-- README - Romantic Muffy -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/ce/6b/af/ce6bafdb160aa08d4fbb3c2a1894d568.jpg" alt="banner" width="100%" />
+  <img src="https://i.pinimg.com/originals/d8/f3/81/d8f3815be820ec3a5fb8f8b902fcabc3.gif" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">
@@ -10,14 +10,14 @@
 
 ---
 
-### Sobre
-Desenvolvedor com foco em performance e design funcional.  
-Trabalho com front e back-end, criando soluções limpas e rápidas.  
-Produção, código e estética — tudo no mesmo pacote.
+### About
+Developer focused on performance, clean design, and functional code.  
+I work across front-end and back-end, creating efficient and modern digital experiences.  
+Production, code, and style — all in one mindset.
 
 ---
 
-### Linguagens
+### Languages
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)
@@ -30,7 +30,7 @@ Produção, código e estética — tudo no mesmo pacote.
 
 ---
 
-### Ferramentas
+### Tools
 <div align="center">
 
 ![VS Code](https://img.shields.io/badge/-VS%20Code-9B5DE5?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -42,7 +42,7 @@ Produção, código e estética — tudo no mesmo pacote.
 
 ---
 
-### Status
+### Stats
 <div align="center">
   
 ![Muffy's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomanticMuffy&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B5DE5&icon_color=9B5DE5)
@@ -54,12 +54,16 @@ Produção, código e estética — tudo no mesmo pacote.
 
 <h3 align="center">
   <a href="https://github.com/RomanticMuffy">
-    <img src="https://img.shields.io/badge/Ver%20Projetos-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Projects-9B5DE5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </h3>
 
 ---
 
 <h4 align="center">
-  ごみごみごみごみごみ
+  Code. Build. Repeat.
 </h4>
+
+<p align="center">
+  <img src="https://www.catzone.com.br/wp-content/uploads/2020/03/Gato-1.png" alt="cat" width="80px" />
+</p>
