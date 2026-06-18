@@ -38,7 +38,7 @@
 </br>
 <div align="center">
 <p>
-<a href="https://github.com/RomanticMuffy?tab=repositories">
+<a href="https://github.com/gustavoCobello?tab=repositories">
   <img width="20%" alt="image" src="https://github.com/user-attachments/assets/15afa9ae-8714-41a3-aa29-9b58b5eb3243" />
 </a>
 </p>
