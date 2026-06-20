@@ -1,10 +1,6 @@
-
 <div align="center">
-<img width="70%" alt="fgfdg" src="https://github.com/user-attachments/assets/cad63aa5-801d-4360-a5b2-70e287d57564" />
-</div>
+<img width="90%" alt="image" src="https://github.com/user-attachments/assets/009c00c3-94af-48a8-ab15-7afa8c868440" />
 
-<div align="center">
-<img width="80%" alt="image" src="https://github.com/user-attachments/assets/5de59928-f712-4bb0-a7a7-34dd0b8e75b8" />
 </div>
 
 </br>
